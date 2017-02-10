@@ -1,0 +1,101 @@
+.navbar{
+	background-color: white;
+	height: 72px;
+}
+a{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+#border-right{
+	border-right: solid 1px #b7b7af; 
+}
+#noright{
+	border-right: none;
+}
+.name{
+	margin-left: 35px;
+	background-color: #4aaaa6;
+	color: white;
+	padding: 25px;
+	font-family: times;
+	font-size: 25px;
+	font-weight: bolder;
+	letter-spacing: 1px;
+}
+a.navbar-brand{
+	margin: 0px;
+	padding:0px;
+}
+
+body{
+	background-image: url("assets/images/concretething1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100%;
+	height: 100%;
+}
+html{
+	min-height: 100%;
+	height: 100%;
+}
+.container-fluid{
+	min-height: 100%;
+	height: 100%;
+
+}
+
+.leftside{
+	margin-left: 3%;
+	background-color: white;
+	width: 40%;
+}
+
+h1{
+	color:#4aaaa6;
+	font-family: times;
+	font-size: 20px;
+	border-bottom: solid 1px #b7b7af;
+}
+.rightside{
+	margin-right: 3%;
+	background-color: white;
+	width: 25%;
+
+}
+h2{
+	color:#4aaaa6;
+	font-family: times;
+	font-size: 18px;
+	border-bottom: solid 1px #b7b7af;
+}
+
+footer{
+	background-color: #666666;
+	color: white;
+	border-top: solid 2px #4aaaa6;
+	height: 75px;
+	text-align: center;
+	padding-top: 30px;
+	margin-top: -75px;
+}
+.spacer{
+	height: 100%;
+}
+.mainp{
+	font-family: helvetica;
+	color: grey;
+	padding: 10px 10px 10px 0px;
+}
+
+#goright{
+	margin-left: 8.5%;
+}
+#goleft{
+	margin-top: 1%;
+	margin-right: 6.5%;
+}
+.clear:{
+	clear: both;
+} 
