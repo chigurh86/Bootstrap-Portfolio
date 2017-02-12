@@ -76,17 +76,11 @@ html{
 	margin-bottom: 20px;
 }
 
-h1{
-	color:#4aaaa6;
-	font-family: times;
-	font-size: 20px;
-	border-bottom: solid .5px #b7b7af;
-}
 .rightside{
 	background-color: white;
 	border: solid 1px #e8e8ee;
 }
-h2{
+h1,h2{
 	color:#4aaaa6;
 	font-family: times;
 	font-size: 22px;
