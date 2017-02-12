@@ -23,9 +23,6 @@
     margin-bottom: 30px;
 	} 
 
-.maxw{
-	width: 100%;
-}
 a{
 	margin: 0px;
 	padding: 0px;
@@ -79,6 +76,7 @@ html{
 .rightside{
 	background-color: white;
 	border: solid 1px #e8e8ee;
+	margin-bottom: 25px;
 }
 h1,h2{
 	color:#4aaaa6;
